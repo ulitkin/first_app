@@ -1,0 +1,137 @@
+<NotepadPlus>
+    <Project name="Lessons">
+        <Folder name="rails_project">
+            <Folder name="first-app">
+                <Folder name="app">
+                    <Folder name="assets">
+                        <Folder name="images">
+                            <File name="first-app\app\assets\images\.keep" />
+                        </Folder>
+                        <Folder name="javascripts">
+                            <File name="first-app\app\assets\javascripts\application.js" />
+                        </Folder>
+                        <Folder name="stylesheets">
+                            <File name="first-app\app\assets\stylesheets\application.css" />
+                        </Folder>
+                    </Folder>
+                    <Folder name="controllers">
+                        <Folder name="concerns">
+                            <File name="first-app\app\controllers\concerns\.keep" />
+                        </Folder>
+                        <File name="first-app\app\controllers\application_controller.rb" />
+                    </Folder>
+                    <Folder name="helpers">
+                        <File name="first-app\app\helpers\application_helper.rb" />
+                    </Folder>
+                    <Folder name="mailers">
+                        <File name="first-app\app\mailers\.keep" />
+                    </Folder>
+                    <Folder name="models">
+                        <Folder name="concerns">
+                            <File name="first-app\app\models\concerns\.keep" />
+                        </Folder>
+                        <File name="first-app\app\models\.keep" />
+                    </Folder>
+                    <Folder name="views">
+                        <Folder name="layouts">
+                            <File name="first-app\app\views\layouts\application.html.erb" />
+                        </Folder>
+                    </Folder>
+                </Folder>
+                <Folder name="bin">
+                    <File name="first-app\bin\bundle" />
+                    <File name="first-app\bin\rails" />
+                    <File name="first-app\bin\rake" />
+                </Folder>
+                <Folder name="config">
+                    <Folder name="environments">
+                        <File name="first-app\config\environments\development.rb" />
+                        <File name="first-app\config\environments\production.rb" />
+                        <File name="first-app\config\environments\test.rb" />
+                    </Folder>
+                    <Folder name="initializers">
+                        <File name="first-app\config\initializers\assets.rb" />
+                        <File name="first-app\config\initializers\backtrace_silencers.rb" />
+                        <File name="first-app\config\initializers\cookies_serializer.rb" />
+                        <File name="first-app\config\initializers\filter_parameter_logging.rb" />
+                        <File name="first-app\config\initializers\inflections.rb" />
+                        <File name="first-app\config\initializers\mime_types.rb" />
+                        <File name="first-app\config\initializers\session_store.rb" />
+                        <File name="first-app\config\initializers\wrap_parameters.rb" />
+                    </Folder>
+                    <Folder name="locales">
+                        <File name="first-app\config\locales\en.yml" />
+                    </Folder>
+                    <File name="first-app\config\application.rb" />
+                    <File name="first-app\config\boot.rb" />
+                    <File name="first-app\config\database.yml" />
+                    <File name="first-app\config\environment.rb" />
+                    <File name="first-app\config\routes.rb" />
+                    <File name="first-app\config\secrets.yml" />
+                </Folder>
+                <Folder name="db">
+                    <File name="first-app\db\seeds.rb" />
+                </Folder>
+                <Folder name="lib">
+                    <Folder name="assets">
+                        <File name="first-app\lib\assets\.keep" />
+                    </Folder>
+                    <Folder name="tasks">
+                        <File name="first-app\lib\tasks\.keep" />
+                    </Folder>
+                </Folder>
+                <Folder name="log">
+                    <File name="first-app\log\.keep" />
+                </Folder>
+                <Folder name="public">
+                    <File name="first-app\public\404.html" />
+                    <File name="first-app\public\422.html" />
+                    <File name="first-app\public\500.html" />
+                    <File name="first-app\public\favicon.ico" />
+                    <File name="first-app\public\robots.txt" />
+                </Folder>
+                <Folder name="test">
+                    <Folder name="controllers">
+                        <File name="first-app\test\controllers\.keep" />
+                    </Folder>
+                    <Folder name="fixtures">
+                        <File name="first-app\test\fixtures\.keep" />
+                    </Folder>
+                    <Folder name="helpers">
+                        <File name="first-app\test\helpers\.keep" />
+                    </Folder>
+                    <Folder name="integration">
+                        <File name="first-app\test\integration\.keep" />
+                    </Folder>
+                    <Folder name="mailers">
+                        <File name="first-app\test\mailers\.keep" />
+                    </Folder>
+                    <Folder name="models">
+                        <File name="first-app\test\models\.keep" />
+                    </Folder>
+                    <File name="first-app\test\test_helper.rb" />
+                </Folder>
+                <Folder name="tmp">
+                    <Folder name="cache">
+                        <Folder name="assets" />
+                    </Folder>
+                </Folder>
+                <Folder name="vendor">
+                    <Folder name="assets">
+                        <Folder name="javascripts">
+                            <File name="first-app\vendor\assets\javascripts\.keep" />
+                        </Folder>
+                        <Folder name="stylesheets">
+                            <File name="first-app\vendor\assets\stylesheets\.keep" />
+                        </Folder>
+                    </Folder>
+                </Folder>
+                <File name="first-app\.gitignore" />
+                <File name="first-app\config.ru" />
+                <File name="first-app\Gemfile" />
+                <File name="first-app\Rakefile" />
+                <File name="first-app\README.rdoc" />
+            </Folder>
+        </Folder>
+    </Project>
+</NotepadPlus>
